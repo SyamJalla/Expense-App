@@ -1,7 +1,5 @@
 node_modules/
-public--/
-src--/
 public/bundle.js
 public/bundle.js.map
-publica/styles.css
-publica/styles.css.map
+public/dist/styles.css
+publia/dist/styles.css.map
